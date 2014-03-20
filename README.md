@@ -5,7 +5,8 @@ A simple dynamic scene generator that uses simple geometric shapes to represent 
 
 Screen shot of the tool:
 ========================
-![](//screen_shot.jpg)
+[![](https://github.com/dksr/Dynamic-Scene-Generator/blob/master/data/screen_shot.jpg)](#screenshot)
+
 
 There are two panels in the tool, one that you can use to create the scene and the other to display some information about the scene. Currently I show spatial relations between the objects in the scene using different spatial calculi. You need to fiddle with the code to change this. Once you create the dynamic scene, you can play it, save it, load a saved scene and play and edit it. 
 
