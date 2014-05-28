@@ -1,4 +1,4 @@
-""" sp_rels_gui
+""" dyn_scene_generator_player
 
     Based on pySketch from wx demos.
     
@@ -33,9 +33,6 @@ from matplotlib.backends.backend_agg import FigureCanvasAgg
 from numpy.random import randn
 from pylab import linspace, meshgrid, sqrt
 from wx.lib.buttons import GenBitmapButton,GenBitmapToggleButton
-
-#matplotlib.use('WXAgg')
-#from matplotlib.backends.backend_wxagg import FigureCanvasWxAgg as FigureCanvas
 
 matplotlib.rcParams['xtick.direction'] = 'out'
 matplotlib.rcParams['ytick.direction'] = 'out'
